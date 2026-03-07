@@ -199,6 +199,7 @@ h1.intro em .change-text span.active {
 
 /* Privacy Policy Page */
 .privacy-page {
+  color: #fff;
   min-height: 100vh;
   background: linear-gradient(-45deg, #003caa, #0c0843, #0096cd, #23d5ab);
   background-size: 400% 400%;
